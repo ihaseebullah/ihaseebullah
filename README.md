@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihaseebullah" alt="ihaseebullah" /></a> </p>
 
-- 🌱 I’m currently learning **Data science, methodologies**
+- 🌱 I'm presently immersed in learning **Data science, honing advanced techniques for data analytics and a student of Software Engineering with the ultimate aim of becoming an AI engineer.**
 
 - 💬 Ask me about **React, Node.js, Pandas**
 
