@@ -7,7 +7,7 @@
 
 - 🌱 I'm presently immersed in learning **Data science, honing advanced techniques for data analytics and a student of Software Engineering with the ultimate aim of becoming an AI engineer.**
 
-- 💬 Ask me about **React, Node.js, Pandas**
+- 💬 Ask me about **Web Development, APIs, Databases, Python & Data Science**
 
 - 📫 How to reach me **ihaseebullahtarakai@gmail.com**
 
