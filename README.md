@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development, APIs, Databases, Python & Data Science**
 
-- 📫 How to reach me **ihaseebullahtarakai@gmail.com**
+- 📫 Reach me at **ihaseebullahtarakai@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10ADc64Bl7gzCWPE6FKSH7O0smeAH-8aR/view?usp=drive_link](https://drive.google.com/file/d/10ADc64Bl7gzCWPE6FKSH7O0smeAH-8aR/view?usp=drive_link)
 
