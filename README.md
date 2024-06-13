@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Haseeb Ullah</h1>
-<h3 align="center">A passionate MERN Stack Developer and curious Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Haseeb Ullah </h1>
+<h3 align="center">A passionate MERN Stack Web Developer and curious Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihaseebullah&label=Profile%20views&color=0e75b6&style=flat" alt="ihaseebullah" /> </p>
 
