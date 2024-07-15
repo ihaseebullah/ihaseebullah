@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Backend of a super app at ELEVEN**
+- 🔭 I’m currently working on **Backend of a super app at ELEVEN (National Aerospace Science And Technology Park)**
 
 - 🌱 I’m currently learning **Data Analytics techniques as a plus to my career**
 
