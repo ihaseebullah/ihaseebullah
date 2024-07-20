@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Haseeb Ullah</h1>
+<h1 >Hello 👋, I'm Haseeb Ullah</h1>
 <h3 align="center">A dedicated developer proficient in the MERN stack with a specialization in backend engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihaseebullah&label=Profile%20views&color=0e75b6&style=flat" alt="ihaseebullah" /> </p>
