@@ -11,12 +11,6 @@
 
 - 🌱 I’m currently learning **Data Analytics techniques as a plus to my career**
 
-- 👯 I’m looking to collaborate on **Study Scape**
-
-- 👨‍💻 All of my projects are available at [https://ihaseebullah.netlify.app](https://ihaseebullah.netlify.app)
-
-- 💬 Ask me about **React.js Node.js Express.js and MongoDB**
-
 - 📫 How to reach me **ihaseebullahtarakai@gmail.com**
 
 - ⚡ Fun fact **My GPA is a solid 4.0—clearly, I don't believe in half measures! 😊**
