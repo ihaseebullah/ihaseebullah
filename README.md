@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Engineer at CEVEN (National Aerospace Science And Technology Park)**
+- 🔭 I’m currently working on **Backend Engineer at CEVEN (NASTP)**
 
 - 🌱 I’m currently learning **Data Analytics techniques as a plus to my career**
 
