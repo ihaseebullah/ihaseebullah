@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Analytics techniques as a plus to my career**
 
-- 📫 How to reach me **ihaseebullahtarakai@gmail.com**
+- 📫 How to reach me **haseebullah@ceventch.com**
 
 - ⚡ Fun fact **My GPA is a solid 4.0—clearly, I don't believe in half measures! 😊**
 
