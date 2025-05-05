@@ -12,7 +12,7 @@
 - 📫 How to reach me **haseebullah@ceventch.com**
 
 - ⚡ Fun fact **My GPA is a solid 4.0—clearly, I don't believe in half measures! 😊**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ihaseeb-ullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihaseeb-ullah" height="30" width="40" /></a>
